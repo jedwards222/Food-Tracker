@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1A1A3AD51DAD9779005F769F /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 1A1A3AD41DAD9779005F769F /* README.md */; };
 		1AB4E7291C249B31008BB42A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AB4E7281C249B31008BB42A /* AppDelegate.swift */; };
 		1AB4E72B1C249B31008BB42A /* MealViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AB4E72A1C249B31008BB42A /* MealViewController.swift */; };
 		1AB4E72E1C249B31008BB42A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1AB4E72C1C249B31008BB42A /* Main.storyboard */; };
@@ -31,6 +32,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1A1A3AD41DAD9779005F769F /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		1AB4E7251C249B31008BB42A /* FoodTracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FoodTracker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1AB4E7281C249B31008BB42A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1AB4E72A1C249B31008BB42A /* MealViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MealViewController.swift; sourceTree = "<group>"; };
@@ -68,6 +70,7 @@
 		1AB4E71C1C249B31008BB42A = {
 			isa = PBXGroup;
 			children = (
+				1A1A3AD41DAD9779005F769F /* README.md */,
 				1AB4E74D1C2B0BA4008BB42A /* MealTableViewCell.swift */,
 				1AB4E7271C249B31008BB42A /* FoodTracker */,
 				1AB4E73C1C249B31008BB42A /* FoodTrackerTests */,
@@ -213,6 +216,7 @@
 				1AB4E74B1C2A3B48008BB42A /* Meal.swift in Sources */,
 				1AB4E72B1C249B31008BB42A /* MealViewController.swift in Sources */,
 				1AB4E7491C28EFA1008BB42A /* RatingControl.swift in Sources */,
+				1A1A3AD51DAD9779005F769F /* README.md in Sources */,
 				1AB4E7291C249B31008BB42A /* AppDelegate.swift in Sources */,
 				1AB4E7501C2B1509008BB42A /* MealTableViewController.swift in Sources */,
 				1AB4E74E1C2B0BA4008BB42A /* MealTableViewCell.swift in Sources */,
